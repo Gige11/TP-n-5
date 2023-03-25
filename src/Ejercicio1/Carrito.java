@@ -17,6 +17,10 @@ public class Carrito {
         this.items[2] = itemCarrito3;
     }
 
+    public Carrito(ItemCarrito[] items) {
+        this.items = items;
+    }
+
     public int getCodigoCarrito() {
         return codigoCarrito;
     }

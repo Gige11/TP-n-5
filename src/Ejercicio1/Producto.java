@@ -19,6 +19,9 @@ public class Producto {
         return codigo;
     }
 
+    public void setCodigo(String codigo) {
+        this.codigo = codigo;
+    }
     public String getNombre() {
 
         return nombre;
