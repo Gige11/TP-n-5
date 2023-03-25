@@ -1,3 +1,3 @@
-Jabon,120,1
-Chocolate,350,2
-Dulce de leche,500,1
+Jabon,2126,120
+Chocolate,1366,350
+Dulce de leche,1736,500
