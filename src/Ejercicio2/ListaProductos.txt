@@ -1,0 +1,3 @@
+Jabon,120,1
+Chocolate,350,2
+Dulce de leche,500,1
